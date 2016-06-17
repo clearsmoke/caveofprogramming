@@ -1,0 +1,86 @@
+Last metadata expiration check performed 0:00:00 ago on Mon May  2 07:32:34 2016.
+================================= Matched: vim =================================
+vim-latex-doc.noarch : Documentation for vim-latex
+vim-jedi.noarch : The Jedi vim plugin
+drupal6-media_vimeo.noarch : Vimeo Video Module for Drupal6
+vimpal.x86_64 : Separate application providing a file tree for VIM
+devassistant-dap-vim.noarch : Vim snippet and assistant
+vim-filesystem.x86_64 : VIM filesystem layout
+vim-taglist.noarch : The taglist plugin for VIM editor
+vim-latex.noarch : Tools to view, edit and compile LaTeX documents in Vim
+vim-vimoutliner.noarch : Script for building an outline editor on top of Vim
+perl-Text-VimColor.noarch : Syntax color text in HTML or XML using Vim
+vim-go.noarch : Go development plugin for Vim
+vim-perl-support.noarch : Perl-IDE for VIM
+vim-common.x86_64 : The common files needed by any version of the VIM editor
+vim-minimal.x86_64 : A minimal version of the VIM editor
+vim-gtk-syntax.noarch : Vim syntax highlighting for GLib, Gtk+, Gstreamer, and
+                      : more
+vim-X11.x86_64 : The VIM version of the vi editor for the X Window System
+vim-enhanced.x86_64 : A version of the VIM editor which includes recent
+                    : enhancements
+vim-omnicppcomplete.noarch : vim c++ completion omnifunc with a ctags database
+texlive-context-vim-doc.noarch : Documentation for context-vim
+wklej-vim.noarch : A wklej.org submitter plugin for vim
+docker-vim.x86_64 : vim syntax highlighting files for Docker
+vim-powerline.noarch : Powerline VIM plugin
+vim-clustershell.noarch : VIM files for ClusterShell
+vim-plugin-powerline.noarch : Powerline VIM plugin
+fluxbox-vim-syntax.noarch : Fluxbox syntax scripts for vim
+beakerlib-vim-syntax.noarch : Files for syntax highlighting BeakerLib tests in
+                            : VIM editor
+notmuch-vim.x86_64 : A Vim plugin for notmuch
+svni-vim.noarch : Vim syntax highlighting file for Subversion interactive
+                : check-in wrapper
+gap-vim.noarch : Edit GAP files with VIM
+protobuf-vim.x86_64 : Vim syntax highlighting for Google Protocol Buffers
+                    : descriptions
+vim-rnv.noarch : Vim plugin for validating XML files against Relax NG Compact
+               : schemas using RNV
+vim-pysmell.noarch : Python autocompletion for vim
+vim-command-t.x86_64 : An extremely fast, intuitive mechanism for opening files
+                     : in VIM
+texlive-context-vim.noarch : Generate Context syntax highlighting code from vim
+vim-javabrowser.noarch : The javabrowser plugin for VIM editor
+vim-nerdtree.noarch : A tree explorer plugin for the editor Vim
+uzbl-vim.noarch : Vim highlighting for uzbl's config
+xtuple-csvimp-devel.i686 : CSVImp development files
+xtuple-csvimp-devel.x86_64 : CSVImp development files
+vim-halibut.noarch : Syntax file for the halibut manual tool
+xtuple-csvimp.x86_64 : xTuple data import utility
+vit.noarch : A minimalist Taskwarrior full-screen terminal interface with Vim
+           : key bindings
+apvlv.x86_64 : PDF viewer which behaves like Vim
+eclipse-vrapper.noarch : Vim-like editing in Eclipse
+qutebrowser.noarch : A keyboard-driven, vim-like browser based on PyQt5 and
+                   : QtWebKit
+fourterm.x86_64 : Lightweight split-screen terminal emulator with vim key
+                : mappings
+vile-common.x86_64 : The common files needed by any version of the VIM editor
+sshrc.noarch : Bring your bash and vim configuration in your ssh session
+clipgrab.x86_64 : A free video downloader and converter
+emacs-evil.noarch : Extensible vi layer for Emacs
+powerline.x86_64 : The ultimate status-line/prompt utility
+python-pelican.noarch : A tool to generate a static blog from reStructuredText
+                      : or Markdown input files
+python3-pelican.noarch : A tool to generate a static blog from reStructuredText
+                       : or Markdown input files
+dvtm.x86_64 : Tiling window management for the console
+vcsh.noarch : Version Control System for $HOME
+jumanji.x86_64 : A highly customizable, minimalist WebKit web browser
+python-pysmell.noarch : An autocompletion library for Python
+nvi.x86_64 : 4.4BSD re-implementation of vi
+grilo-plugins.x86_64 : Plugins for the Grilo framework
+python-jedi.noarch : An auto completion tool for Python that can be used for
+                   : text editors
+python3-jedi.noarch : An auto completion tool for Python that can be used for
+                    : text editors
+gitflow.noarch : Extensions providing operations for V. Driessen's branching
+               : model
+dmtcp.i686 : Checkpoint/Restart functionality for Linux processes
+dmtcp.x86_64 : Checkpoint/Restart functionality for Linux processes
+boxes.x86_64 : Draw any kind of box around some given text
+liblinebreak.i686 : A Unicode line-breaking library
+liblinebreak.x86_64 : A Unicode line-breaking library
+liblinebreak-devel.i686 : Development files for liblinebreak
+liblinebreak-devel.x86_64 : Development files for liblinebreak

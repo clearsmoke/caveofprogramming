@@ -1,0 +1,20 @@
+Use single quotes when you do not want a statement expanded/evaluated and double quotes when you do
+    For example:
+	print("$file was found in Folder\n") 
+	    This would substitue the variable for $file as well as interprit the \n new line character. Using single quotes would only interpret	    that statement as a literal string.
+
+use $ for declaring single variables (scalars) and use @ for Arrays
+
+You can use the -f flag to ask/indicate whether a file exists or not
+    Example:
+	if(-f $file) {
+	    print("Found $file\n");
+	}
+	    This says that if the file at variable $file is found then print that you found the file
+
+To turn off output buffering set the value to 1
+    Example: 
+	use strict;
+	use warnings;
+	$| = 1;
+
